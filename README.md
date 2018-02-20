@@ -1,4 +1,4 @@
-# computer-vision-samples
+# Computer Vision Samples
 
 Simple use cases solved through computer vision. 
 
